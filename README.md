@@ -4,7 +4,7 @@ A simple beginner-friendly Python quiz game that asks the user basic computer-re
 
 ## Project Overview
 
-This project is a text based quiz program built using Python. When the program starts, it welcomes the user and asks if they want to play. If the user types "yes", the quiz begins and asks 4 questions about common computer terms:
+This project is a text based quiz program built using Python. When the program starts, it welcomes the user and asks if they want to play. If the user types "yes", the quiz begins and asks 6 questions about common computer terms:
 
  - CPU
  - GPU
@@ -30,23 +30,37 @@ At the end, the program shows:
 ## Example Output
 
 Welcome to my computer quiz!
+
 Do you want to play? yes
+
 Alright! Let's play :)
 
 What does CPU stand for? central processing unit
+
 correct!
+
 What does GPU stand for? graphics processing unit
+
 correct!
+
 What does RAM stand for? random access memory
+
 correct!
+
 What does PSU stand for? power supply
+
 correct!
+
 What does SSD stand for? solid state drive
+
 correct!
+
 What does OS stand for? operating system
+
 correct!
 
 You got 6 questions correct!
+
 You got 100.0%
 
 ## Technolgies Used
