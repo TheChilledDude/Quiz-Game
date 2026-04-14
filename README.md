@@ -79,15 +79,15 @@ You got 100.0%
 
 From this project, I learned how to:
 
- . Take user input.
+ - Take user input.
  
- . Compare answers using conditions.
+ - Compare answers using conditions.
  
- . Keep score with variables.
+ - Keep score with variables.
 
- . Calculate percentages.
+ - Calculate percentages.
  
- . Make programs more user-friendly using .lower()
+ - Make programs more user-friendly using .lower()
 
  ## Possible Improvements
 
