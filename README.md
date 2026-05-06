@@ -20,7 +20,7 @@ At the end, the program shows:
 ## How It Works
 
  1. The program prints a welcome message.
- 2. It asks the use if they want to play.
+ 2. It asks the user if they want to play.
  3. If the user does not type 'yes', the program ends.
  4. If the user types 'yes', the quiz starts.
  5. The user answers 6 computer-related questions.
@@ -47,7 +47,7 @@ What does RAM stand for? random access memory
 
 correct!
 
-What does PSU stand for? power supply
+What does PSU stand for? power supply unit
 
 correct!
 
